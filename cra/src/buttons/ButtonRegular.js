@@ -1,0 +1,1 @@
+export const ButtonRegular = props => <button className="btn btn-primary" onClick={props.OnClickHandler}>{props.children}</button>
